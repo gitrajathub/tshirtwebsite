@@ -11,18 +11,7 @@ const Header = () => {
           <p className='text-sm text-gray-300'></p>
         </div>
 
-        {/* Navigation Links */}
-        <nav className="flex space-x-6 font-bold">
-          <a href="https://www.instagram.com/antimotivationalmemes/" className="text-gray-100 hover:text-gray-800">
-            DM @antimotivationalmemes <br/>on instagram to order
-          </a>
-          {/* <a href="/about" className="text-gray-100 hover:text-gray-800">
-            About Us
-          </a>
-          <a href="/contact" className="text-gray-100 hover:text-gray-800">
-            Contact
-          </a> */}
-        </nav>
+        
 
         
         {/* <div className="relative">

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tshirtwebsite/static/css/main.391e2e7a.css",
-    "main.js": "/tshirtwebsite/static/js/main.6bedbc76.js",
+    "main.css": "/tshirtwebsite/static/css/main.61513847.css",
+    "main.js": "/tshirtwebsite/static/js/main.76888860.js",
     "static/js/453.f364b12a.chunk.js": "/tshirtwebsite/static/js/453.f364b12a.chunk.js",
     "static/media/003.png": "/tshirtwebsite/static/media/003.2ba3ebecc6c2d0101fb5.png",
     "static/media/005.png": "/tshirtwebsite/static/media/005.4dc8d2bec603663c99f2.png",
@@ -13,12 +13,12 @@
     "static/media/006.png": "/tshirtwebsite/static/media/006.4588a665560de7ce3d4e.png",
     "static/media/009.png": "/tshirtwebsite/static/media/009.696bcbd9e1a696e58caf.png",
     "index.html": "/tshirtwebsite/index.html",
-    "main.391e2e7a.css.map": "/tshirtwebsite/static/css/main.391e2e7a.css.map",
-    "main.6bedbc76.js.map": "/tshirtwebsite/static/js/main.6bedbc76.js.map",
+    "main.61513847.css.map": "/tshirtwebsite/static/css/main.61513847.css.map",
+    "main.76888860.js.map": "/tshirtwebsite/static/js/main.76888860.js.map",
     "453.f364b12a.chunk.js.map": "/tshirtwebsite/static/js/453.f364b12a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.391e2e7a.css",
-    "static/js/main.6bedbc76.js"
+    "static/css/main.61513847.css",
+    "static/js/main.76888860.js"
   ]
 }
